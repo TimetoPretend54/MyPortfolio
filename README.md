@@ -11,4 +11,4 @@ These projects are in hopes to demonstrate my interests and passions in this fie
 </table>
 
 ### Github
-https://github.com/TimetoPretend54
+[https://github.com/TimetoPretend54](https://github.com/TimetoPretend54)
