@@ -1,8 +1,33 @@
-## Welcome to GitHub Pages
+# Adrian Beehner
 
 You can use the [editor on GitHub](https://github.com/TimetoPretend54/MyPortfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+### Navigation
+
+<nav>
+  <ul>
+    <li><strong>Home</strong></li>
+    <li><a href="about.html">About Us</a></li>
+    <li><a href="clients.html">Our Clients</a></li>
+    <li><a href="products.html">Our Products</a></li>
+    <li><a href="services.html">Our Services</a></li>
+    <li><a href="contact.html">Contact Us</a></li>
+  </ul>
+</nav>
+
+<p style="text-align: center;">
+  <a href="{{site.baseurl}}/">Home</a> |
+  <a href="{{site.baseurl}}/admin/">Admin</a> | 
+  <a href="{{site.baseurl}}/schedule/week_1/">Week 1</a> | 
+  <a href="{{site.baseurl}}/schedule/week_2/">Week 2</a> | 
+  <a href="{{site.baseurl}}/schedule/week_3/">Week 3</a> | 
+  <a href="{{site.baseurl}}/general/">Misc</a>
+</p>
+
+Navigate to [Projects Page](docs/Projects.md)
 
 ### Markdown
 

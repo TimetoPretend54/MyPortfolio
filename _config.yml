@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+headerTitle: Adrian Beehner
+headerDescription: Portfolio built using GitHub Pages.
+baseurl: /MyPortfolio
