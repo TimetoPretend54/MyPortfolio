@@ -1,0 +1,10 @@
+Had to create my own verison of OrthogonalTiledMapRenderer, named it 
+"OrthogonalTiledMapRendererBleedFix", it is in my "..core/src/com/badlogic/maps/tiled/renderers/"
+folder, copy all the way from "com", put the copied "com" in your src folder for that project and
+whenever you need to use OrthogonalTiledMapRendererBleedFix because of texture bleeding, make sure
+to put "import com.badlogic.gdx.maps.tiled.renderers.OrthogonalTiledMapRendererBleedFix;" if need
+to use this in another project/game, the issue I had was I didnt pad my tilesets, if you look at 
+my tileset for phantomlord, they appear as a solid object, but they should have all have been in
+some sort of "tiled" image look (where the padding would go), adding a method to 
+OrthogonalTiledMapRendererBleedFix called fixBleeding and calling  that method at line 104 fixes
+ the issue, so I didn't have to go and edit/pad my whole tileset!

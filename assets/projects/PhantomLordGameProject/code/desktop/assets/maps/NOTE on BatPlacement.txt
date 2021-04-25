@@ -1,0 +1,2 @@
+In TileD, bat will go up 6 "tiles" from where he was positioned in titled,
+  and then back down 6 tiles to where he originally was positioned

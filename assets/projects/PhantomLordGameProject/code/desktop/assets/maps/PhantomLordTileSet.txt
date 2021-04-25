@@ -1,0 +1,47 @@
+PhantomLordTileSet.png
+size: 512, 256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+candle1
+  rotate: false
+  xy: 112, 0
+  size: 16, 48
+  orig: 16, 48
+  offset: 0, 0
+  index: -1
+Fire
+  rotate: false
+  xy: 0, 0
+  size: 112, 40
+  orig: 112, 40
+  offset: 0, 0
+  index: -1
+mininicular
+  rotate: false
+  xy: 216, 100
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tileset
+  rotate: false
+  xy: 0, 100
+  size: 216, 128
+  orig: 216, 128
+  offset: 0, 0
+  index: 32
+tombstoneGoal
+  rotate: false
+  xy: 280, 0
+  size: 60, 100
+  orig: 60, 100
+  offset: 0, 0
+  index: -1
+ts_32_expansion
+  rotate: false
+  xy: 128, 0
+  size: 152, 64
+  orig: 152, 64
+  offset: 0, 0
+  index: -1

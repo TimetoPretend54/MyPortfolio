@@ -1,0 +1,2 @@
+Use medibang paint to edit the giant single tileSet, as TexturePacker wont usually align
+the tiles perfectly, but just need to shift and save and check in Tiled

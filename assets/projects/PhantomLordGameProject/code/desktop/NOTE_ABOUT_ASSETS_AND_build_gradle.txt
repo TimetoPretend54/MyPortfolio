@@ -1,0 +1,6 @@
+In "build.gradle" under Homework #3/desktop,
+change line#7 from 
+	"project.ext.assetsDir = new File("../core/assets");"	to:
+	"project.ext.assetsDir = new File("../desktop");"
+
+As eclipse had this way of file setup, so I structured program around it, so center it around that

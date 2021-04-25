@@ -1,0 +1,1 @@
+Even the subdirectories in the "audio" folder must, or libGDX wont read from them correctly.

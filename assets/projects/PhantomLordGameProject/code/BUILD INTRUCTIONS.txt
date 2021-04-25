@@ -1,0 +1,33 @@
+*******************************
+* Steps to Run "Phantom Lord" *
+*******************************
+
+1) Extract "Phantom_Lord.zip" to desired directory
+
+
+
+2) Open Command Line/Prompt (Mac, Linux, Windows)
+
+
+
+3) Go to folder in commandline where "Phantom_Lord.zip" was extracted
+
+
+4) Run "gradlew desktop:run"
+
+
+
+5) Gradle will walk you through the rest of the steps!
+
+
+
+NOTE: Gradle requires Java JDK or JRE to be installed, 
+
+	
+	Windows: https://docs.oracle.com/javase/9/install/installation-jdk-and-jre-microsoft-windows-platforms.htm#JSJIG-GUID-A7E27B90-A28D-4237-9383-A58B416071CA
+
+	
+	Linux: https://docs.oracle.com/javase/9/install/installation-jdk-and-jre-linux-platforms.htm#JSJIG-GUID-737A84E4-2EFF-4D38-8E60-3E29D1B884B8
+
+	
+	MacOS: https://docs.oracle.com/javase/9/install/installation-jdk-and-jre-macos.htm#JSJIG-GUID-2FE451B0-9572-4E38-A1A5-568B77B146DE

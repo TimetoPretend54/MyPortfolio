@@ -1,0 +1,83 @@
+
+textures.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+NewGameBackground
+  rotate: false
+  xy: 2, 2
+  size: 592, 457
+  orig: 592, 457
+  offset: 0, 0
+  index: -1
+boardPurple
+  rotate: false
+  xy: 898, 394
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+boardDark
+  rotate: false
+  xy: 596, 216
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+buttonPressed
+  rotate: false
+  xy: 596, 372
+  size: 300, 87
+  orig: 300, 87
+  offset: 0, 0
+  index: -1
+buttonStandard
+  rotate: false
+  xy: 596, 283
+  size: 300, 87
+  orig: 300, 87
+  offset: 0, 0
+  index: -1
+boardWhite
+  rotate: false
+  xy: 663, 154
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+checkboxOn
+  rotate: false
+  xy: 730, 221
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+pawnRed
+  rotate: false
+  xy: 898, 327
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+pawnRedKing
+  rotate: false
+  xy: 596, 149
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+pawnBlue
+  rotate: false
+  xy: 663, 216
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+pawnBlueKing
+  rotate: false
+  xy: 596, 82
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1

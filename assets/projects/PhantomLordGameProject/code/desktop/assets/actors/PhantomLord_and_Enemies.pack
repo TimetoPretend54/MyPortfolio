@@ -1,0 +1,89 @@
+
+PhantomLord_and_Enemies.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+PhantomLordAverage - Copy
+  rotate: false
+  xy: 1, 75
+  size: 560, 35
+  orig: 560, 35
+  offset: 0, 0
+  index: -1
+PhantomLordAverage
+  rotate: false
+  xy: 1, 75
+  size: 560, 35
+  orig: 560, 35
+  offset: 0, 0
+  index: -1
+PhantomLordLow
+  rotate: false
+  xy: 1, 38
+  size: 560, 35
+  orig: 560, 35
+  offset: 0, 0
+  index: -1
+PhantomLordPower
+  rotate: false
+  xy: 1, 1
+  size: 560, 35
+  orig: 560, 35
+  offset: 0, 0
+  index: -1
+CanePower
+  rotate: false
+  xy: 563, 75
+  size: 280, 35
+  orig: 280, 35
+  offset: 0, 0
+  index: -1
+GhostWithHat
+  rotate: false
+  xy: 563, 38
+  size: 245, 35
+  orig: 245, 35
+  offset: 0, 0
+  index: -1
+Candle
+  rotate: false
+  xy: 845, 75
+  size: 140, 35
+  orig: 140, 35
+  offset: 0, 0
+  index: -1
+Bat
+  rotate: false
+  xy: 563, 1
+  size: 105, 35
+  orig: 105, 35
+  offset: 0, 0
+  index: -1
+Pumpkin
+  rotate: false
+  xy: 810, 38
+  size: 105, 35
+  orig: 105, 35
+  offset: 0, 0
+  index: -1
+CandyCorn
+  rotate: false
+  xy: 987, 75
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+GhostMask
+  rotate: false
+  xy: 670, 1
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+HatCandy
+  rotate: false
+  xy: 917, 38
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
