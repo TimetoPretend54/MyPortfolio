@@ -1,20 +1,25 @@
 # Media
 
-## Java libGDX - Phantom Lord Video Game
+## Krem2 - Univ. of Idaho team works to create underwater drone to study local lakes
 
-This project was for a short retro-style side scroller video game. The game is written in Java and uses the [libGDX framework](https://libgdx.com/). All Music, Sounds, Art, Environments from freesounds.org and opengameart.org, powered using libGDX.
+"COEUR D’ALENE, Idaho – University of Idaho researchers are developing an underwater drone called “The Catfish” that will one day be able to cruise along the bottom of Lake Coeur d’Alene."...
 
-💡 See [Project Code Here](https://github.com/TimetoPretend54/MyPortfolio/tree/main/assets/projects/PhantomLordGameProject/code)
+<img src="../../assets/media/UnderwaterDroneLakeResearchMedia/lake-krem_orig.png" width="500"/>
 
-<!-- https://handsontek.net/get-youtube-thumbnail-images/ -->
-[![IMAGE ALT TEXT](https://img.youtube.com/vi/1VASgMhx6Ww/hqdefault.jpg)](https://www.youtube.com/watch?v=1VASgMhx6Ww "Phantom Lord Game Walkthrough")
+💡 [Read Full Article](https://www.krem.com/article/news/local/kootenai-county/univ-of-idaho-team-works-to-create-underwater-drone-to-study-local-lakes/293-578119295)
 
-*Phantom Lord Playthrough Youtube Video*
+## Guest Post – Artificial Intelligence Techniques applied to Robotic Vision
 
-## Java Animation Editor - GoofyGlasses
+"Editors Note:   We are pleased to have Adrian Beehner as our guest blogger today.  He has written a great introduction to the use of Artificial Intelligence techniques in Robotic vision"...
 
-Java Animation Editor for creating short animations to export to low-level arduino boards that would play said animation.
+<img src="../../assets/media/GuestPostAIVisionMedia/guest2_1.png" width="500"/>
 
-<img src="../../assets/projects/GoofyLightsProject/goofylightgui2_orig.jpg" width="500"/>
+💡 [Read Full Article](https://www.switchdoc.com/2017/11/guest-post-ai-techniques-applied-to-robotic-vision/)
 
-💡 See [GoofyGlasses Repo](https://github.com/GoofyGlasses-CS383-S17)
+## Meet Baxter, the 300-Pound Robot in Coeur d'Alene
+
+"Baxter does his best to teach the basics of robotics and artificial intelligence to the students at the University of Idaho Coeur d’Alene Computer Science Department. He’s even learning to make them coffee"...
+
+<img src="../../assets/media/UoIMeetBaxterMedia/baxter-300-pound_1.png" width="500"/>
+
+💡 [Read Full Article](https://www.uidaho.edu/research/news/get-to-know-ored/baxter)
