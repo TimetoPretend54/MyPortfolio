@@ -10,7 +10,7 @@ WeatherForecast prototype application utilizing .NET Core, Angular, SQL Server, 
 
 University project revolving around having [Baxter the Robot](https://en.wikipedia.org/wiki/Baxter_%28robot%29) make a cup of coffee. Utilizing [ROS (Robot Operating System)](https://en.wikipedia.org/wiki/Robot_Operating_System) to help w/ 3D mapping, navigation, and real-time vision. 
 
-💡 See [Project Code Here](https://github.com/TimetoPretend54/MyPortfolio/tree/main/assets/projects/BaxterProject/code/Project1-KeruigMachine)
+💡 See [Project Code Here](https://github.com/TimetoPretend54/MyPortfolio/tree/main/assets/projects/PersonalProjects/BaxterProject/code/Project1-KeruigMachine)
 
 [![IMAGE ALT TEXT](https://img.youtube.com/vi/kO5B5dSil9A/hqdefault.jpg)](https://www.youtube.com/watch?v=kO5B5dSil9A "Baxter the Robot Making Coffee - Alexa Interface")
 
@@ -22,7 +22,7 @@ Continuation of the University project revolving around having [Baxter the Robot
 
 The goal was for bidirectional communication between a custom [Alexa Skill](https://www.amazon.com/alexa-skills/b?node=13727921011) and the ROS Node for communicating with Baxter. [PubNub](https://www.pubnub.com/docs/sdks/python/) was used for the Pub/Sub Paradigm. 
 
-💡 See [Project Code Here](https://github.com/TimetoPretend54/MyPortfolio/tree/main/assets/projects/BaxterAlexaProject)
+💡 See [Project Code Here](https://github.com/TimetoPretend54/MyPortfolio/tree/main/assets/projects/PersonalProjects/BaxterAlexaProject)
 
 
 [![IMAGE ALT TEXT](https://img.youtube.com/vi/kO5B5dSil9A/hqdefault.jpg)](https://www.youtube.com/watch?v=kO5B5dSil9A "Baxter the Robot Making Coffee - Alexa Interface")
@@ -33,7 +33,7 @@ The goal was for bidirectional communication between a custom [Alexa Skill](http
 
 This project was for a short retro-style side scroller video game. The game is written in Java and uses the [libGDX framework](https://libgdx.com/). All Music, Sounds, Art, Environments from freesounds.org and opengameart.org, powered using libGDX.
 
-💡 See [Project Code Here](https://github.com/TimetoPretend54/MyPortfolio/tree/main/assets/projects/PhantomLordGameProject/code)
+💡 See [Project Code Here](https://github.com/TimetoPretend54/MyPortfolio/tree/main/assets/projects/PersonalProjects/PhantomLordGameProject/code)
 
 <!-- https://handsontek.net/get-youtube-thumbnail-images/ -->
 [![IMAGE ALT TEXT](https://img.youtube.com/vi/1VASgMhx6Ww/hqdefault.jpg)](https://www.youtube.com/watch?v=1VASgMhx6Ww "Phantom Lord Game Walkthrough")
@@ -44,7 +44,7 @@ This project was for a short retro-style side scroller video game. The game is w
 
 Java Animation Editor for creating short animations to export to low-level arduino boards that would play said animation.
 
-<img src="../../assets/projects/GoofyLightsProject/goofylightgui2_orig.jpg" width="500"/>
+<img src="../../assets/projects/PersonalProjects/GoofyLightsProject/goofylightgui2_orig.jpg" width="500"/>
 
 💡 See [GoofyGlasses Repo](https://github.com/GoofyGlasses-CS383-S17)
 
@@ -54,7 +54,7 @@ The Wireless Tower of Lights at the University of Idaho was a project to convert
 
 [Wireless Tower of Lights Wiki](http://mindworks.shoutwiki.com/wiki/Wireless_Tower_of_Lights)
 
-<img src="../../assets/projects//WirlessTowerOfLightsProject/300px-tower_orig.jpg" width="300"/>
+<img src="../../assets/projects/PersonalProjects//WirlessTowerOfLightsProject/300px-tower_orig.jpg" width="300"/>
 
 💡 See [Wireless Tower of Lights Repo](https://github.com/YupHio/LEaD_Design)
 
@@ -63,7 +63,7 @@ The Wireless Tower of Lights at the University of Idaho was a project to convert
 Software simulator that multiplies two numbers and displays the result in the form of a [turing machine](https://en.wikipedia.org/wiki/Turing_machine). The program was written in Python, using a Raspberry Pi with a Grove Connector Interface Board that connects to a I2C 4 Channel Mux Extender Board
 
 
-💡 See [Project Code Here](https://github.com/TimetoPretend54/MyPortfolio/tree/main/assets/projects/TuringMachineSimulatorProject/code)
+💡 See [Project Code Here](https://github.com/TimetoPretend54/MyPortfolio/tree/main/assets/projects/PersonalProjects/TuringMachineSimulatorProject/code)
 
 <!-- https://handsontek.net/get-youtube-thumbnail-images/ -->
 [![IMAGE ALT TEXT](https://img.youtube.com/vi/8JhakxZcqdM/hqdefault.jpg)](https://www.youtube.com/watch?v=8JhakxZcqdM "Turing Machine Simulator")
@@ -75,4 +75,4 @@ Software simulator that multiplies two numbers and displays the result in the fo
 Software created to solve the partial differential equation 2D Heat Distribution Problem utilizing the [Chebyshev-Accelerated Jacobi Iteration Algorithm](https://en.wikipedia.org/wiki/Chebyshev_iteration). Writtien in C. (MPI = Messaging Programming Interface)
 
 
-💡 See [Project Code Here](https://github.com/TimetoPretend54/MyPortfolio/tree/main/assets/projects/2DHeatDistProject)
+💡 See [Project Code Here](https://github.com/TimetoPretend54/MyPortfolio/tree/main/assets/projects/PersonalProjects/2DHeatDistProject)
