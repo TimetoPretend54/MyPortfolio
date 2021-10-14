@@ -2,7 +2,11 @@
 
 ## Kubernetes & Helm - Golang Web App
 
-<img src="../../assets/projects/PersonalProjects/WebGoK8/WebGoK8.gif" width="90%"/>
+
+<p align="center">
+    <img src="../../assets/projects/PersonalProjects/WebGoK8/WebGoK8.gif" width="90%"/><br>
+    <i><a href="../../assets/projects/PersonalProjects/WebGoK8/WebGoK8.gif">view full size</a></i>
+</p>
 
 Simple Go prototype application utilizing Docker, Kubernetes, and Helm to Deploy to a Kubernetes Cluster.
 
@@ -11,7 +15,10 @@ Simple Go prototype application utilizing Docker, Kubernetes, and Helm to Deploy
 
 ## ROS & Alexa - Baxter the Robot Making Coffee using OpenCV w/ Alexa Interface
 
-<img src="../../assets/projects/PersonalProjects/BaxterAlexaProject/AlexaBaxterCoffeeFinal.gif" width="90%"/>
+<p align="center">
+    <img src="../../assets/projects/PersonalProjects/BaxterAlexaProject/AlexaBaxterCoffeeFinal.gif" width="90%"/><br>
+    <i><a href="../../assets/projects/PersonalProjects/BaxterAlexaProject/AlexaBaxterCoffeeFinal.gif">view full size</a></i>
+</p>
 
 University project revolving around having [Baxter the Robot](https://en.wikipedia.org/wiki/Baxter_%28robot%29) make a cup of coffee. Utilizing [ROS (Robot Operating System)](https://en.wikipedia.org/wiki/Robot_Operating_System) to help w/ 3D mapping, navigation, and real-time vision (OpenCV: Real-Time Computer Vision).
 
@@ -24,7 +31,10 @@ Alexa was for the desire of bidirectional communication between a custom [Alexa 
 
 ## Docker Compose - NET/Angular Weather Forecast App
 
-<img src="../../assets/projects/PersonalProjects/WeatherForecast/WeatherForecast.gif" width="90%"/>
+<p align="center">
+    <img src="../../assets/projects/PersonalProjects/WeatherForecast/WeatherForecast.gif" width="90%"/><br>
+    <i><a href="../../assets/projects/PersonalProjects/WeatherForecast/WeatherForecast.gif">view full size</a></i>
+</p>
 
 WeatherForecast prototype application utilizing .NET Core, Angular, SQL Server, containerized by utilizing Docker Containers (DockerCompose.yml & Dockerfile).
 
@@ -33,7 +43,10 @@ WeatherForecast prototype application utilizing .NET Core, Angular, SQL Server, 
 
 ## Java libGDX - Phantom Lord Video Game
 
-<img src="../../assets/projects/PersonalProjects/PhantomLordGameProject/PhantomLord.gif" width="90%"/>
+<p align="center">
+    <img src="../../assets/projects/PersonalProjects/PhantomLordGameProject/PhantomLord.gif" width="90%"/><br>
+    <i><a href="../../assets/projects/PersonalProjects/PhantomLordGameProject/PhantomLord.gif">view full size</a></i>
+</p>
 
 This project was for a short retro-style side scroller video game. The game is written in Java and uses the [libGDX framework](https://libgdx.com/). All Music, Sounds, Art, Environments from freesounds.org and opengameart.org, powered using libGDX.
 
@@ -44,7 +57,10 @@ This project was for a short retro-style side scroller video game. The game is w
 
 ## Custom PCB & Arduino Development - Wireless Tower of Lights
 
-<img src="../../assets/projects/PersonalProjects/WirlessTowerOfLightsProject/UoITowerOfLights.gif" width="90%"/>
+<p align="center">
+    <img src="../../assets/projects/PersonalProjects/WirlessTowerOfLightsProject/UoITowerOfLights.gif" width="90%"/><br>
+    <i><a href="../../assets/projects/PersonalProjects/WirlessTowerOfLightsProject/UoITowerOfLights.gif">view full size</a></i>
+</p>
 
 The Wireless Tower of Lights at the University of Idaho was a project to convert the show's electronics to a fully wireless system. The new system involved the development of microprocessor based wireless modules that would are attached to each of the light bars
 
@@ -55,7 +71,10 @@ The Wireless Tower of Lights at the University of Idaho was a project to convert
 
 ## Python Raspberry Pi - Turing Machine Simulator
 
-<img src="../../assets/projects/PersonalProjects/TuringMachineSimulatorProject/TurringMachineSimulator.gif" width="90%"/>
+<p align="center">
+    <img src="../../assets/projects/PersonalProjects/TuringMachineSimulatorProject/TurringMachineSimulator.gif" width="90%"/><br>
+    <i><a href="../../assets/projects/PersonalProjects/TuringMachineSimulatorProject/TurringMachineSimulator.gif">view full size</a></i>
+</p>
 
 Software simulator that multiplies two numbers and displays the result in the form of a [turing machine](https://en.wikipedia.org/wiki/Turing_machine). The program was written in Python, using a Raspberry Pi with a Grove Connector Interface Board that connects to a I2C 4 Channel Mux Extender Board
 
@@ -69,7 +88,10 @@ Software simulator that multiplies two numbers and displays the result in the fo
 
 Java Animation Editor for creating short animations to export to low-level arduino boards that would play said animation.
 
-<img src="../../assets/projects/PersonalProjects/GoofyLightsProject/goofylightgui2_orig.jpg" width="500"/>
+<p align="center">
+    <img src="../../assets/projects/PersonalProjects/GoofyLightsProject/goofylightgui2_orig.jpg" width="500"/>
+</p>
+
 
 💡 [Project Repo](https://github.com/GoofyGlasses-CS383-S17)
 

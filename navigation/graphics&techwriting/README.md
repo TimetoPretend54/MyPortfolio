@@ -6,25 +6,29 @@
 
 The Design Specification in relation to the `Java libGDX - Phantom Lord Video Game` Project from the [Projects Page](https://timetopretend54.github.io/MyPortfolio/navigation/projects/).
 
-<img src="../../assets/techwritings/PhantomLordDesignSpecs.png" width="300"/>
+<p align="center">
+    <img src="../../assets/techwritings/PhantomLordDesignSpecs.png" width="300"/><br>
+    <i><a href="../../assets/techwritings/Game_Design_Document.pdf">view full pdf</a></i>
+</p>
 
-💡 [View Full PDF](https://github.com/TimetoPretend54/MyPortfolio/blob/main/assets/techwritings/Game_Design_Document.pdf)
 
 ### Design Specification - LEaD Design
 
 The Design Specification in relation to the `Custom PCB & Arduino Development - Wireless Tower of Lights` Project from the [Projects Page](https://timetopretend54.github.io/MyPortfolio/navigation/projects/).
 
-<img src="../../assets/techwritings/LEaDDesignSpecsCover.png" width="300"/>
-
-💡 [View Full PDF](https://github.com/TimetoPretend54/MyPortfolio/blob/main/assets/techwritings/Design_Specification_LEaD_Design.pdf)
+<p align="center">
+    <img src="../../assets/techwritings/LEaDDesignSpecsCover.png" width="300"/><br>
+    <i><a href="../../assets/techwritings/Design_Specification_LEaD_Design.pdf">view full pdf</a></i>
+</p>
 
 ### Design Specification - GoofyGlasses
 
 The Design Specification in relation to the `Java Animation Editor - GoofyGlasses` Project from the [Projects Page](https://timetopretend54.github.io/MyPortfolio/navigation/projects/).
 
-<img src="../../assets/techwritings/GoofyLightsDesignSpecsCover.png" width="300"/>
-
-💡 [View Full PDF](https://github.com/TimetoPretend54/MyPortfolio/blob/main/assets/techwritings/Design_Specification_LEaD_GoofyGlasses_Software.pdf)
+<p align="center">
+    <img src="../../assets/techwritings/GoofyLightsDesignSpecsCover.png" width="300"/><br>
+    <i><a href="../../assets/techwritings/Design_Specification_LEaD_GoofyGlasses_Software.pdf">view full pdf</a></i>
+</p>
 
 ## Infographics
 
@@ -32,22 +36,30 @@ The Design Specification in relation to the `Java Animation Editor - GoofyGlasse
 
 Infographic for explaining the correlation to the goal of having Baxter (robot) and Alexa having bidirectional communication between each other.
 
-<img src="../../assets/techwritings/baxter-alexa-interface.jpg" width="200"/>
+<p align="center">
+    <img src="../../assets/techwritings/baxter-alexa-interface.jpg" width="200"/>
+</p>
 
 ### Baxter-Alexa Poster
 
 Infographic for showing off the various projects that have been done with Robotics at University of Idaho.
 
-<img src="../../assets/techwritings/baxer-alexa-poster_orig.png" width="200"/>
+<p align="center">
+    <img src="../../assets/techwritings/baxer-alexa-poster_orig.png" width="200"/>
+</p>
 
 ### CS Jobs Infographic
 
 Techincal writing course.
 
-<img src="../../assets/techwritings/data-infragraphic-computer-science-education-and-jobs_orig.jpg" width="200"/>
+<p align="center">
+    <img src="../../assets/techwritings/data-infragraphic-computer-science-education-and-jobs_orig.jpg" width="200"/>
+</p>
 
 ### What is Computer Science Infographic
 
 Techincal writing course.
 
-<img src="../../assets/techwritings/what-is-computer-science-infographic.jpg" width="200"/>
+<p align="center">
+    <img src="../../assets/techwritings/what-is-computer-science-infographic.jpg" width="200"/>
+</p>
