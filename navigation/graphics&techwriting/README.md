@@ -4,7 +4,7 @@
 
 ### Game Design Specification - Phantom Lord
 
-The Design Specification in relation to the `Java libGDX - Phantom Lord Video Game` Project from the [Projects Page](https://timetopretend54.github.io/MyPortfolio/navigation/projects/).
+**Description:** The Design Specification in relation to the `Java libGDX - Phantom Lord Video Game` Project from the [Projects Page](https://timetopretend54.github.io/MyPortfolio/navigation/projects/).
 
 <p align="center">
     <img src="../../assets/techwritings/PhantomLordDesignSpecs.png" width="300"/><br>
@@ -14,7 +14,7 @@ The Design Specification in relation to the `Java libGDX - Phantom Lord Video Ga
 
 ### Design Specification - LEaD Design
 
-The Design Specification in relation to the `Custom PCB & Arduino Development - Wireless Tower of Lights` Project from the [Projects Page](https://timetopretend54.github.io/MyPortfolio/navigation/projects/).
+**Description:** The Design Specification in relation to the `Custom PCB & Arduino Development - Wireless Tower of Lights` Project from the [Projects Page](https://timetopretend54.github.io/MyPortfolio/navigation/projects/).
 
 <p align="center">
     <img src="../../assets/techwritings/LEaDDesignSpecsCover.png" width="300"/><br>
@@ -23,7 +23,7 @@ The Design Specification in relation to the `Custom PCB & Arduino Development - 
 
 ### Design Specification - GoofyGlasses
 
-The Design Specification in relation to the `Java Animation Editor - GoofyGlasses` Project from the [Projects Page](https://timetopretend54.github.io/MyPortfolio/navigation/projects/).
+**Description:** The Design Specification in relation to the `Java Animation Editor - GoofyGlasses` Project from the [Projects Page](https://timetopretend54.github.io/MyPortfolio/navigation/projects/).
 
 <p align="center">
     <img src="../../assets/techwritings/GoofyLightsDesignSpecsCover.png" width="300"/><br>
@@ -34,7 +34,7 @@ The Design Specification in relation to the `Java Animation Editor - GoofyGlasse
 
 ### Baxter-Alexa Interface
 
-Infographic for explaining the correlation to the goal of having Baxter (robot) and Alexa having bidirectional communication between each other.
+**Description:** Infographic for explaining the correlation to the goal of having Baxter (robot) and Alexa having bidirectional communication between each other.
 
 <p align="center">
     <img src="../../assets/techwritings/baxter-alexa-interface.jpg" width="200"/>
@@ -42,7 +42,7 @@ Infographic for explaining the correlation to the goal of having Baxter (robot) 
 
 ### Baxter-Alexa Poster
 
-Infographic for showing off the various projects that have been done with Robotics at University of Idaho.
+**Description:** Infographic for showing off the various projects that have been done with Robotics at University of Idaho.
 
 <p align="center">
     <img src="../../assets/techwritings/baxer-alexa-poster_orig.png" width="200"/>
@@ -50,7 +50,7 @@ Infographic for showing off the various projects that have been done with Roboti
 
 ### CS Jobs Infographic
 
-Techincal writing course.
+**Description:** For Techincal writing course.
 
 <p align="center">
     <img src="../../assets/techwritings/data-infragraphic-computer-science-education-and-jobs_orig.jpg" width="200"/>
@@ -58,7 +58,7 @@ Techincal writing course.
 
 ### What is Computer Science Infographic
 
-Techincal writing course.
+**Description:** For Techincal writing course.
 
 <p align="center">
     <img src="../../assets/techwritings/what-is-computer-science-infographic.jpg" width="200"/>
