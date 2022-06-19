@@ -1,6 +1,30 @@
-# Company Projects
+# Company Projects - Public
 
-## Spokane Teacher's Credit Union (STCU) - [Company Website](https://stcu.org/)
+## HCL America Inc. (Subsidiary of HCL Technologies - [Website](https://www.hcltech.com/))
+
+### "**HCL SoFy**" - [Website](https://hclsofy.com/home)
+Cloud-based software deployment solution/software.
+
+<div align="center">
+    <iframe 
+        width="70%"
+        height="327vh"
+        src="https://www.youtube.com/embed/Ut328BmPFZw" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+    </iframe>
+</div>
+
+**Role:** Lead the UI Team for the relaunch/new release of the `Launch It!` functionality (as mentioned in the video above).
+
+**Description:** 
+>HCL SoFy is a cloud-based software deployment solution that deploys software packages. Can deploy HCL Software products to any cloud – public, private, or hybrid. SoFy uses Helm technology to combine HCL Products with common services into portable solutions across all Kubernetes environments.
+
+- Reference: [https://www.hcltechsw.com/sofy](https://www.hcltechsw.com/sofy)
+
+## Spokane Teacher's Credit Union (STCU) - [Website](https://stcu.org/)
 
 ### **"Check my status"** - Event Platform App & System
 
@@ -38,7 +62,7 @@
 **Description:** Web application lets member's favorite their most used and liked STCU services, allowing for customization and ease of use. The application also provides a fuzzy search for the member, to quickly navigate/find their desired service.
 
 
-### **"Transfer card balances"** - Member Credit/Debit Transfer App
+<!-- ### **"Transfer card balances"** - Member Credit/Debit Transfer App
 
 <p align="center">
     <img src="../../assets/projects/CompanyProjects/STCU/TransferCardBalances.gif" width="30%"/><br>
@@ -59,5 +83,5 @@
 
 **Role:** Contributed to development alongside team of developers.
 
-**Description:** Web application lets member's change their desired card's PIN (following security standard/guidelines), and communicates directly w/ STCU's other application `Activate my card`.
+**Description:** Web application lets member's change their desired card's PIN (following security standard/guidelines), and communicates directly w/ STCU's other application `Activate my card`. -->
 
