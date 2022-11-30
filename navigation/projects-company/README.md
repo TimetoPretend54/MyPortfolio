@@ -5,6 +5,37 @@
 ### "**HCL SoFy**" - [Website](https://hclsofy.com/home)
 Cloud-based software deployment solution/software.
 
+>HCL SoFy is a cloud-based software deployment solution that deploys software packages. Can deploy HCL Software products to any cloud – public, private, or hybrid. SoFy uses Helm technology to combine HCL Products with common services into portable solutions across all Kubernetes environments.
+
+- Reference: [https://www.hcltechsw.com/sofy](https://www.hcltechsw.com/sofy)
+
+
+### "**HCL SoFy 2.0 Release**"
+
+<div align="center">
+    <iframe 
+        width="70%"
+        height="327vh"
+        src="https://www.youtube.com/embed/_yA0N1yWy8M"
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+    </iframe>
+</div>
+
+**Role:** Lead the UI Team for the relaunch/new release of the SoFy 2.0 UI functionality (as mentioned in the video above).
+
+**Description:** 
+>Learn more about HCL SoFy: https://hclsw.co/sofy-home
+<br />
+<br />
+HCL SoFy 2.0 is expanding the value for HCL Business Partners by introducing new capabilities to help grow your business. 
+
+- Reference: [https://www.youtube.com/watch?v=_yA0N1yWy8M&ab_channel=HCLSoftware](https://www.youtube.com/watch?v=_yA0N1yWy8M&ab_channel=HCLSoftware)
+
+### "**HCL SoFy 'Launch It!' Release**"
+
 <div align="center">
     <iframe 
         width="70%"
@@ -20,9 +51,12 @@ Cloud-based software deployment solution/software.
 **Role:** Lead the UI Team for the relaunch/new release of the `Launch It!` functionality (as mentioned in the video above).
 
 **Description:** 
->HCL SoFy is a cloud-based software deployment solution that deploys software packages. Can deploy HCL Software products to any cloud – public, private, or hybrid. SoFy uses Helm technology to combine HCL Products with common services into portable solutions across all Kubernetes environments.
+> Learn more about HCL SoFy: https://hclsw.co/sofy-home
+<br />
+<br />
+This video provides a quick walk-through of how to launch a sandbox in HCL SoFy.
 
-- Reference: [https://www.hcltechsw.com/sofy](https://www.hcltechsw.com/sofy)
+- Reference: [https://www.youtube.com/watch?v=Ut328BmPFZw&ab_channel=HCLSoftware](https://www.youtube.com/watch?v=Ut328BmPFZw&ab_channel=HCLSoftware)
 
 ## Spokane Teacher's Credit Union (STCU) - [Website](https://stcu.org/)
 
