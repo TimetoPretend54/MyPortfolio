@@ -1,16 +1,14 @@
 # Personal Projects 
-
-## Kubernetes & Helm - Golang Web App
-
+## ChatGPT and GitHub Co-Pilot - Golang Web API (Swagger UI)
 
 <p align="center">
-    <img src="../../assets/projects/PersonalProjects/WebGoK8/WebGoK8.gif" width="90%"/><br>
-    <i><a href="../../assets/projects/PersonalProjects/WebGoK8/WebGoK8.gif">view full size</a></i>
+    <img src="../../assets/projects/PersonalProjects/WebGoChatGPT/WebGoChatGPT.gif" width="90%"/><br>
+    <i><a href="../../assets/projects/PersonalProjects/WebGoChatGPT/WebGoChatGPT.gif">view full size</a></i>
 </p>
 
-**Description:** Simple Go prototype application utilizing Docker, Kubernetes, and Helm to Deploy to a Kubernetes Cluster.
+**Description:** Lightweight API generated utilizing ChatGPT prompts and GitHub Co-Pilot. Utilized Swagger UI for generating API Docs. Utilizing Go, Gin, Swagger UI, ChatGPT, GitHub Co-Pilot, and Swagger UI.
 
-**Links:** [Project Repo](https://github.com/TimetoPretend54/web-go-k8)
+**Links:** [Project Repo](https://github.com/TimetoPretend54/go-chatgpt-copilot)
 
 
 ## ROS & Alexa - Baxter the Robot Making Coffee using OpenCV w/ Alexa Interface
@@ -25,6 +23,19 @@
 Alexa was for the desire of bidirectional communication between a custom [Alexa Skill](https://www.amazon.com/alexa-skills/b?node=13727921011) and the ROS Node for communicating with Baxter. [PubNub](https://www.pubnub.com/docs/sdks/python/) was used for the Pub/Sub Paradigm. 
 
 **Links:** [Project Code](https://github.com/TimetoPretend54/MyPortfolio/tree/main/assets/projects/PersonalProjects/BaxterProject/code/Project1-KeruigMachine), [Full Video](https://www.youtube.com/watch?v=kO5B5dSil9A)
+
+
+## Kubernetes & Helm - Golang Web App
+
+
+<p align="center">
+    <img src="../../assets/projects/PersonalProjects/WebGoK8/WebGoK8.gif" width="90%"/><br>
+    <i><a href="../../assets/projects/PersonalProjects/WebGoK8/WebGoK8.gif">view full size</a></i>
+</p>
+
+**Description:** Simple Go prototype application utilizing Docker, Kubernetes, and Helm to Deploy to a Kubernetes Cluster.
+
+**Links:** [Project Repo](https://github.com/TimetoPretend54/web-go-k8)
 
 
 ## Docker Compose - NET/Angular Weather Forecast App
