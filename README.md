@@ -9,7 +9,7 @@ This online portfolio demonstrates the projects I have done for Technical Writin
 These projects and technical writings are to demonstrate my interests and passions in this field, to display my drive to constantly learn and evolve my skills.
 
 <table>
-<tr><td><img src="assets/other/adrianb-profile.jpg" width="300px" alt="[Portfolio picture]"/></td><td style="vertical-align: middle">Adrian Beehner<br/>Senior Software Engineer<br/></td></tr>
+<tr><td><img src="assets/other/adrianb-profile.png" width="300px" alt="[Portfolio picture]"/></td><td style="vertical-align: middle">Adrian Beehner<br/>Senior Software Engineer<br/></td></tr>
 </table>
 
 ### Github
