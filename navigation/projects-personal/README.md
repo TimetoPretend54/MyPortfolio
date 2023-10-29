@@ -25,8 +25,19 @@ Alexa was for the desire of bidirectional communication between a custom [Alexa 
 **Links:** [Project Code](https://github.com/TimetoPretend54/MyPortfolio/tree/main/assets/projects/PersonalProjects/BaxterProject/code/Project1-KeruigMachine), [Full Video](https://www.youtube.com/watch?v=kO5B5dSil9A)
 
 
-## Kubernetes & Helm - Golang Web App
+## GitHub Actions & Slack SDK - GitHub PR Slack Bot
 
+<p align="center">
+    <img src="../../assets/PersonalProjects/../projects/PersonalProjects/GitHubPRSlackBot/bot_image.png" width="90%"/><br>
+    <i><a href="../../assets/PersonalProjects/../projects/PersonalProjects/GitHubPRSlackBot/bot_image.png">view full size</a></i>
+</p>
+
+**Description:** A  GitHub PR Slack Bot that fetches outstanding Pull Requests and periodically pings the dedicated Slack Channel to provide details.
+
+**Links:** [Project Repo](https://github.com/TimetoPretend54/github-pr-slack-bot/tree/main)
+
+
+## Kubernetes & Helm - Golang Web App
 
 <p align="center">
     <img src="../../assets/projects/PersonalProjects/WebGoK8/WebGoK8.gif" width="90%"/><br>
