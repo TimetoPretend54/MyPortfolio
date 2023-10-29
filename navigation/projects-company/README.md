@@ -1,5 +1,70 @@
 # Company Projects - Public
 
+## MedBridge - [Website](https://www.medbridge.com/)
+
+> Online education and digital patient care for healthcare professionals and organizations across the care continuum.
+
+### EMR Integrations
+https://www.medbridge.com/enterprise/emr-integration/
+
+<div align="center">
+    <img src="assets/../../../assets/projects/CompanyProjects/MedBridge/emr-page.png" width="500px" height="340px" alt="[Portfolio picture]"/>
+</div>
+
+<div align="center">
+    <iframe 
+        width="70%"
+        height="327vh"
+        src="https://www.youtube.com/embed/XK6gLAm7vo8?si=zgS91J0rLvbX6iZN"
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+    </iframe>
+</div>
+
+**Role:** Contributed to engineering seamless patient data EMR (Electronic Medical Record) integrations across diverse healthcare systems, using SSO solutions for secure, compliant data exchange.
+
+**Description:** 
+>Learn more about MedBridge's Integrations: https://www.medbridge.com/enterprise/emr-integration/
+<br />
+<br />
+Spend time with patients—not patient records—with the HIPAA-compliant MedBridge EMR Solution.
+
+- References: 
+  - [https://www.medbridge.com/enterprise/emr-integration/](https://www.medbridge.com/enterprise/emr-integration/)
+  - [https://www.youtube.com/watch?v=XK6gLAm7vo8&ab_channel=MedBridge](https://www.youtube.com/watch?v=XK6gLAm7vo8&ab_channel=MedBridge)
+
+## Capital One - [Website](https://www.capitalone.com/)
+
+> At Capital One, we're changing banking for good. We were founded on the belief that no one should be locked out of the financial system.
+
+### Site Reliability Engineering
+
+[The 3 R’s of SREs: resiliency, recovery & reliability](https://www.capitalone.com/tech/software-engineering/sres-architecting-with-resiliency-recovery-reliability/)
+
+<div align="center">
+    <img src="assets/../../../assets/projects/CompanyProjects/CapitalOne/blog-image.png" width="500px" height="340px" alt="[Portfolio picture]"/>
+</div>
+
+**Role:** Monitored, measured, developed, and reported on the performance and reliability of systems using SLOs, ensuring adherence to established targets.
+
+**Description:** 
+>Learn more about CapitalOne's Site Reliability Engineering: https://www.capitalone.com/tech/software-engineering/sres-architecting-with-resiliency-recovery-reliability/
+<br />
+<br />
+The 3 R’s of SREs: resiliency, recovery & reliability:
+Using the 3 R’s as a lens to architect reliable applications
+
+- Reference: [https://www.capitalone.com/tech/software-engineering/sres-architecting-with-resiliency-recovery-reliability/](https://www.capitalone.com/tech/software-engineering/sres-architecting-with-resiliency-recovery-reliability/)
+
+### "**HCL SoFy**" - [Website](https://hclsofy.com/home)
+Cloud-based software deployment solution/software.
+
+>HCL SoFy is a cloud-based software deployment solution that deploys software packages. Can deploy HCL Software products to any cloud – public, private, or hybrid. SoFy uses Helm technology to combine HCL Products with common services into portable solutions across all Kubernetes environments.
+
+- Reference: [https://www.hcltechsw.com/sofy](https://www.hcltechsw.com/sofy)
+
 ## HCL America Inc. (Subsidiary of HCL Technologies - [Website](https://www.hcltech.com/))
 
 ### "**HCL SoFy**" - [Website](https://hclsofy.com/home)
