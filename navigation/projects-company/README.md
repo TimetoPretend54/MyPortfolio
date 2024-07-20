@@ -58,12 +58,6 @@ Using the 3 R’s as a lens to architect reliable applications
 
 - Reference: [https://www.capitalone.com/tech/software-engineering/sres-architecting-with-resiliency-recovery-reliability/](https://www.capitalone.com/tech/software-engineering/sres-architecting-with-resiliency-recovery-reliability/)
 
-### "**HCL SoFy**" - [Website](https://hclsofy.com/home)
-Cloud-based software deployment solution/software.
-
->HCL SoFy is a cloud-based software deployment solution that deploys software packages. Can deploy HCL Software products to any cloud – public, private, or hybrid. SoFy uses Helm technology to combine HCL Products with common services into portable solutions across all Kubernetes environments.
-
-- Reference: [https://www.hcltechsw.com/sofy](https://www.hcltechsw.com/sofy)
 
 ## HCL America Inc. (Subsidiary of HCL Technologies - [Website](https://www.hcltech.com/))
 
