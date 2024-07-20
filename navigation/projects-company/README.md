@@ -23,7 +23,13 @@
     </iframe>
 </div>
 
-**Role:** Contributed to engineering seamless patient data EMR (Electronic Medical Record) integrations across diverse healthcare systems, using SSO solutions for secure, compliant data exchange.
+**Role:** Contributed to engineering seamless provider and patient data EMR (Electronic Medical Record) integrations across diverse healthcare systems, using SSO solutions for secure, compliant data exchange. Including EPIC Direct and MyChart.
+
+**Integration Examples:**
+
+ [Medbridge - What is a MyChart Integration?](https://support.medbridge.com/hc/en-us/articles/31361472539411-What-is-a-MyChart-Integration)
+
+[Medbridge - What is an Epic Direct Integration?](https://support.medbridge.com/hc/en-us/articles/27332462428179-What-is-an-Epic-Direct-Integration)
 
 **Description:** 
 >Learn more about MedBridge's Integrations: https://www.medbridge.com/enterprise/emr-integration/
@@ -31,9 +37,12 @@
 <br />
 Spend time with patients—not patient records—with the HIPAA-compliant MedBridge EMR Solution.
 
-- References: 
-  - [https://www.medbridge.com/enterprise/emr-integration/](https://www.medbridge.com/enterprise/emr-integration/)
-  - [https://www.youtube.com/watch?v=XK6gLAm7vo8&ab_channel=MedBridge](https://www.youtube.com/watch?v=XK6gLAm7vo8&ab_channel=MedBridge)
+References:
+- [https://www.medbridge.com/enterprise/emr-integration/](https://www.medbridge.com/enterprise/emr-integration/)
+- [https://support.medbridge.com/hc/en-us/articles/31361472539411-What-is-a-MyChart-Integration](https://support.medbridge.com/hc/en-us/articles/31361472539411-What-is-a-MyChart-Integration)
+- [https://support.medbridge.com/hc/en-us/articles/27332462428179-What-is-an-Epic-Direct-Integration](https://support.medbridge.com/hc/en-us/articles/27332462428179-What-is-an-Epic-Direct-Integration)
+- [https://www.youtube.com/watch?v=XK6gLAm7vo8&ab_channel=MedBridge](https://www.youtube.com/watch?v=XK6gLAm7vo8&ab_channel=MedBridge)
+
 
 ## Capital One - [Website](https://www.capitalone.com/)
 
