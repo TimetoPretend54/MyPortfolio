@@ -5,7 +5,7 @@
 > Online education and digital patient care for healthcare professionals and organizations across the care continuum.
 
 ### EMR Integrations
-https://www.medbridge.com/enterprise/emr-integration/
+[EMR Integration for a Seamless Experience](https://www.medbridge.com/enterprise/emr-integration/)
 
 <div align="center">
     <img src="assets/../../../assets/projects/CompanyProjects/MedBridge/emr-page.png" width="500px" height="340px" alt="[Portfolio picture]"/>
