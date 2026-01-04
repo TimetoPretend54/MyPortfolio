@@ -1,5 +1,17 @@
-# Personal Projects 
-## ChatGPT and GitHub Co-Pilot - Golang Web API (Swagger UI)
+# Personal Projects
+## Coding Agent, LLM, & Metasearch Engine - AI Agent Workbench
+
+<p align="center">
+    <img src="../../assets/projects/PersonalProjects/AIAgentWorkbench/ai-agent-workbench.gif" width="90%"/><br>
+    <i><a href="../../assets/projects/PersonalProjects/AIAgentWorkbench/ai-agent-workbench.gif">view full size</a></i>
+</p>
+
+**Description:** An AI coding assistant workbench that integrates coding agents (Kilo, Roo Code, or Cline) with LLMs (either local via Ollama or hosted like Qwen Code) and a metasearch engine (SearXNG) for enhanced development workflows with search integration.
+
+**Links:** [Project Repo](https://github.com/TimetoPretend54/ai-agent-workbench)
+
+
+## ChatGPT & GitHub Co-Pilot - Golang Web API (Swagger UI)
 
 <p align="center">
     <img src="../../assets/projects/PersonalProjects/WebGoChatGPT/WebGoChatGPT.gif" width="90%"/><br>
@@ -113,3 +125,5 @@ Alexa was for the desire of bidirectional communication between a custom [Alexa 
 **Description:** Software created to solve the partial differential equation 2D Heat Distribution Problem utilizing the [Chebyshev-Accelerated Jacobi Iteration Algorithm](https://en.wikipedia.org/wiki/Chebyshev_iteration). Writtien in C. (MPI = Messaging Programming Interface)
 
 **Links:** [Project Code](https://github.com/TimetoPretend54/MyPortfolio/tree/main/assets/projects/PersonalProjects/2DHeatDistProject)
+
+
