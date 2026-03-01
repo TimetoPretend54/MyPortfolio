@@ -6,21 +6,21 @@
     <i><a href="../../assets/projects/PersonalProjects/AIAgentWorkbench/ai-agent-workbench.gif">view full size</a></i>
 </p>
 
-**Description:** An AI coding assistant workbench that integrates coding agents (Kilo, Roo Code, or Cline) with LLMs (either local via Ollama or hosted like Qwen Code) and a metasearch engine (SearXNG) for enhanced development workflows with search integration.
+**Description:** An AI coding assistant workbench that integrates coding agents (OpenCode, Kilo, Roo Code, or Cline) with LLMs (either local via Ollama, or hosted like Qwen Code/OpenRouter) and a metasearch engine (SearXNG) for enhanced development workflows with search integration.
 
 **Links:** [Project Repo](https://github.com/TimetoPretend54/ai-agent-workbench)
 
 
-## ChatGPT & GitHub Co-Pilot - Golang Web API (Swagger UI)
+## Angular, Go, PostgreSQL, & Kubernetes - Full-Stack Blueprint
 
 <p align="center">
-    <img src="../../assets/projects/PersonalProjects/WebGoChatGPT/WebGoChatGPT.gif" width="90%"/><br>
-    <i><a href="../../assets/projects/PersonalProjects/WebGoChatGPT/WebGoChatGPT.gif">view full size</a></i>
+    <img src="../../assets/projects/PersonalProjects/K8sFullstackBlueprint/k8s-fullstack-blueprint.gif" width="90%"/><br>
+    <i><a href="../../assets/projects/PersonalProjects/K8sFullstackBlueprint/k8s-fullstack-blueprint.gif">view full size</a></i>
 </p>
 
-**Description:** Lightweight API generated utilizing ChatGPT prompts and GitHub Co-Pilot. Utilized Swagger UI for generating API Docs. Utilizing Go, Gin, Swagger UI, ChatGPT, GitHub Co-Pilot, and Swagger UI.
+**Description:** Production-oriented cloud-native full-stack blueprint. A repository structure and documentation template for building and deploying cloud-native full-stack applications using Go (backend), PostgreSQL (database), Angular (frontend), Docker, and Kubernetes/Helm.
 
-**Links:** [Project Repo](https://github.com/TimetoPretend54/go-chatgpt-copilot)
+**Links:** [Project Repo](https://github.com/TimetoPretend54/k8s-fullstack-blueprint)
 
 
 ## ROS & Alexa - Baxter the Robot Making Coffee using OpenCV w/ Alexa Interface
@@ -32,7 +32,7 @@
 
 **Description:** University project revolving around having [Baxter the Robot](https://en.wikipedia.org/wiki/Baxter_%28robot%29) make a cup of coffee. Utilizing [ROS (Robot Operating System)](https://en.wikipedia.org/wiki/Robot_Operating_System) to help w/ 3D mapping, navigation, and real-time vision (OpenCV: Real-Time Computer Vision).
 
-Alexa was for the desire of bidirectional communication between a custom [Alexa Skill](https://www.amazon.com/alexa-skills/b?node=13727921011) and the ROS Node for communicating with Baxter. [PubNub](https://www.pubnub.com/docs/sdks/python/) was used for the Pub/Sub Paradigm. 
+Alexa used for bidirectional communication between a custom [Alexa Skill](https://www.amazon.com/alexa-skills/b?node=13727921011) and the ROS Node for communicating with Baxter. [PubNub](https://www.pubnub.com/docs/sdks/python/) was used for the Pub/Sub Paradigm. 
 
 **Links:** [Project Code](https://github.com/TimetoPretend54/MyPortfolio/tree/main/assets/projects/PersonalProjects/BaxterProject/code/Project1-KeruigMachine), [Full Video](https://www.youtube.com/watch?v=kO5B5dSil9A)
 
@@ -47,6 +47,18 @@ Alexa was for the desire of bidirectional communication between a custom [Alexa 
 **Description:** A  GitHub PR Slack Bot that fetches outstanding Pull Requests and periodically pings the dedicated Slack Channel to provide details.
 
 **Links:** [Project Repo](https://github.com/TimetoPretend54/github-pr-slack-bot/tree/main)
+
+
+## ChatGPT & GitHub Co-Pilot - Golang Web API (Swagger UI)
+
+<p align="center">
+    <img src="../../assets/projects/PersonalProjects/WebGoChatGPT/WebGoChatGPT.gif" width="90%"/><br>
+    <i><a href="../../assets/projects/PersonalProjects/WebGoChatGPT/WebGoChatGPT.gif">view full size</a></i>
+</p>
+
+**Description:** Lightweight API generated utilizing ChatGPT prompts and GitHub Co-Pilot. Utilized Swagger UI for generating API Docs. Utilizing Go, Gin, Swagger UI, ChatGPT, GitHub Co-Pilot, and Swagger UI.
+
+**Links:** [Project Repo](https://github.com/TimetoPretend54/go-chatgpt-copilot)
 
 
 ## Kubernetes & Helm - Golang Web App
@@ -92,7 +104,7 @@ Alexa was for the desire of bidirectional communication between a custom [Alexa 
     <i><a href="../../assets/projects/PersonalProjects/WirlessTowerOfLightsProject/UoITowerOfLights.gif">view full size</a></i>
 </p>
 
-**Description:** The Wireless Tower of Lights at the University of Idaho was a project to convert the show's electronics to a fully wireless system. The new system involved the development of microprocessor based wireless modules that would are attached to each of the light bars
+**Description:** The Wireless Tower of Lights at the University of Idaho was a project to convert the show's electronics to a fully wireless system. The new system involved the development of microprocessor based wireless modules that would are attached to each of the light bars.
 
 **Links:** [Project Wiki](http://mindworks.shoutwiki.com/wiki/Wireless_Tower_of_Lights), [Project Repo](https://github.com/YupHio/LEaD_Design)
 
@@ -104,7 +116,7 @@ Alexa was for the desire of bidirectional communication between a custom [Alexa 
     <i><a href="../../assets/projects/PersonalProjects/TuringMachineSimulatorProject/TurringMachineSimulator.gif">view full size</a></i>
 </p>
 
-**Description:** Software simulator that multiplies two numbers and displays the result in the form of a [turing machine](https://en.wikipedia.org/wiki/Turing_machine). The program was written in Python, using a Raspberry Pi with a Grove Connector Interface Board that connects to a I2C 4 Channel Mux Extender Board
+**Description:** Software simulator that multiplies two numbers and displays the result in the form of a [turing machine](https://en.wikipedia.org/wiki/Turing_machine). The program was written in Python, using a Raspberry Pi with a Grove Connector Interface Board that connects to a I2C 4 Channel Mux Extender Board.
 
 **Links:** [Project Code](https://github.com/TimetoPretend54/MyPortfolio/tree/main/assets/projects/PersonalProjects/TuringMachineSimulatorProject/code), [Full Video](https://www.youtube.com/watch?v=8JhakxZcqdM)
 
@@ -122,7 +134,7 @@ Alexa was for the desire of bidirectional communication between a custom [Alexa 
 
 ## Distributed Program that uses MPI - 2D Heat Distribution Program
 
-**Description:** Software created to solve the partial differential equation 2D Heat Distribution Problem utilizing the [Chebyshev-Accelerated Jacobi Iteration Algorithm](https://en.wikipedia.org/wiki/Chebyshev_iteration). Writtien in C. (MPI = Messaging Programming Interface)
+**Description:** Software created to solve the partial differential equation 2D Heat Distribution Problem utilizing the [Chebyshev-Accelerated Jacobi Iteration Algorithm](https://en.wikipedia.org/wiki/Chebyshev_iteration). Writtien in C. (MPI = Messaging Programming Interface).
 
 **Links:** [Project Code](https://github.com/TimetoPretend54/MyPortfolio/tree/main/assets/projects/PersonalProjects/2DHeatDistProject)
 
