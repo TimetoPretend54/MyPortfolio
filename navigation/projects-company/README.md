@@ -4,6 +4,45 @@
 
 > Online education and digital patient care for healthcare professionals and organizations across the care continuum.
 
+### MedBridge Care
+[Smarter care. One connected platform.](https://www.medbridge.com/care)
+
+<div align="center">
+    <img src="assets/../../../assets/projects/CompanyProjects/MedBridge/care-page-2026.png" width="500px" height="340px" alt="[Portfolio picture]"/>
+</div>
+
+<div align="center">
+    <iframe 
+        width="70%"
+        height="327vh"
+        src="https://www.youtube.com/embed/e2KwASDtN74?si=z4sfQBtlyay9yny8"
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+    </iframe>
+</div>
+
+**Role:** Contributed to enhancing MedBridge Care, a digital platform enabling clinicians to deliver guided care pathways and home programs to patients.
+
+**Description:** 
+>Learn more about MedBridge Care: https://www.medbridge.com/care
+<br />
+<br />
+Deliver personalized, evidence-based care through trusted home exercise programs and digital care pathways—at scale, across every care setting.
+
+
+**Highlights:**
+- Improved clinician workflows for assigning and monitoring structured care programs.
+- Helped deliver user-facing functionality for patient engagement and progress tracking.
+- Collaborated with product and engineering teams to refine interfaces and ensure a seamless digital care experience.
+
+**References:**
+- [https://www.medbridge.com/care](https://www.medbridge.com/care)
+- [https://support.medbridge.com/hc/en-us/articles/45237489200915-What-s-New-with-Pathways-in-Medbridge-Care](https://support.medbridge.com/hc/en-us/articles/45237489200915-What-s-New-with-Pathways-in-Medbridge-Care)
+- [https://www.youtube.com/watch?v=e2KwASDtN74&ab_channel=MedBridge](https://www.youtube.com/watch?v=e2KwASDtN74&ab_channel=MedBridge)
+
 ### EMR Integrations
 [EMR Integration for a Seamless Experience](https://www.medbridge.com/enterprise/emr-integration/)
 
@@ -186,4 +225,3 @@ This video provides a quick walk-through of how to launch a sandbox in HCL SoFy.
 **Role:** Contributed to development alongside team of developers.
 
 **Description:** Web application lets member's change their desired card's PIN (following security standard/guidelines), and communicates directly w/ STCU's other application `Activate my card`. -->
-
