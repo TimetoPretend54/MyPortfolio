@@ -62,7 +62,7 @@ Deliver personalized, evidence-based care through trusted home exercise programs
     </iframe>
 </div>
 
-**Role:** Contributed to engineering seamless provider and patient data EMR (Electronic Medical Record) integrations across diverse healthcare systems, using SSO solutions for secure, compliant data exchange. Including EPIC Direct and MyChart.
+**Role:** Contributed to engineering seamless provider and patient data EMR (Electronic Medical Record) integrations across diverse healthcare systems, using SSO solutions for secure, compliant data exchange. Including EPIC Direct and MyChart integrations.
 
 **Integration Examples:**
 
