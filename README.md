@@ -1,6 +1,6 @@
 # About Me
 
-I’m Adrian, a Senior Software Engineer specializing in full-stack web development, cloud-native systems, and AI-assisted engineering workflows.
+I’m Adrian, a Senior Software Engineer specializing in full-stack web development, cloud-native systems, and AI- & spec-driven workflows.
 
 My experience spans Golang, PHP, .NET, and Angular, building and operating production-grade software systems. I design scalable architectures across Microsoft Azure, Google Cloud Platform, and AWS, with a strong focus on microservices, Kubernetes, and serverless platforms. I also integrate AI coding agents—using tools like Cursor, Claude, OpenCode, and Gemini—into established software development lifecycles.
 
