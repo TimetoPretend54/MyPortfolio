@@ -1,6 +1,6 @@
 /* PhantomLord.java
  * Description: Java libGDX scidescroller game
- * Programmer: Adrian Beehner
+ * Programmer: Adrian B
  * Date: 9/29/17
 
 Problem: Side-Scroller

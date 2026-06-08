@@ -2,7 +2,7 @@
 #
 # TuringMachine.py
 # Description: Program for Writing a Turing Machine Simulator
-# Programmer: Adrian Beehner
+# Programmer: Adrian B
 # Date: 11/22/16
 
 # Problem: Write a Turing Machine Simulator that uses 3 LCD screens to display the output,
@@ -33,7 +33,7 @@ for i in range(0, 3):
 for i in range(0, 3):											
 	tca9545 = SDL_Pi_TCA9545.SDL_Pi_TCA9545(addr=TCA9545_ADDRESS, bus_enable = BUS[i+1])
 	setRGB(0,255,0)												# Set Backlight to Green
-	setText(" Turing M Sim: \n Adrian Beehner")				
+	setText(" Turing M Sim: \n Adrian B")				
 	time.sleep(.05)
 	i = i + 1
 time.sleep(2)													# Clear

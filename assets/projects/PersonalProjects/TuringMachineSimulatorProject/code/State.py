@@ -2,7 +2,7 @@
 #
 # State.py
 # Description: Program for a class named State, for TuringMachine.py
-# Programmer: Adrian Beehner
+# Programmer: Adrian B
 # Date: 11/22/16
 
 # Imports

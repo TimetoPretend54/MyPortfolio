@@ -11,7 +11,7 @@
 
 ## Guest Post – Artificial Intelligence Techniques applied to Robotic Vision
 
-**Excerpt:** "Editors Note:   We are pleased to have Adrian Beehner as our guest blogger today.  He has written a great introduction to the use of Artificial Intelligence techniques in Robotic vision"...
+**Excerpt:** "Editors Note:   We are pleased to have Adrian B as our guest blogger today.  He has written a great introduction to the use of Artificial Intelligence techniques in Robotic vision"...
 
 <p align="center">
     <img src="../../assets/media/GuestPostAIVisionMedia/guest2_1.png" width="500"/><br>

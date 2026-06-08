@@ -9,7 +9,7 @@ I bring a deep understanding of software design, development, testing, and deliv
 This portfolio showcases selected technical writing, university projects, public-facing work, and personal experiments, reflecting my focus on durable software, thoughtful system design, and continuous growth as an engineer.
 
 <table>
-<tr><td><img src="assets/other/adrianb-profile.png" width="300px" alt="[Portfolio picture]"/></td><td style="vertical-align: middle">Adrian Beehner<br/>Senior Software Engineer<br/></td></tr>
+<tr><td><img src="assets/other/adrianb-profile.png" width="300px" alt="[Portfolio picture]"/></td><td style="vertical-align: middle">Adrian B<br/>Senior Software Engineer<br/></td></tr>
 </table>
 
 ### Github

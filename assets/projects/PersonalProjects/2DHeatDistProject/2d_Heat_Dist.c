@@ -1,6 +1,6 @@
 /* CS_441_Assignment#3.c
  * Description: Program that pratices the utilizes MPI to Solve a Partial Differential Equation
- * Programmer: Adrian Beehner
+ * Programmer: Adrian B
  * Date: 4/1/17
 
 Problem: 
@@ -95,7 +95,7 @@ int main(int argc, char *argv[])
 	
 	if (p == 0)
 	{	
-		printf("\n\nCS 441 Assignment 3: MPI PDE --- Adrian Beehner\n\n");
+		printf("\n\nCS 441 Assignment 3: MPI PDE --- Adrian B\n\n");
 		printf("If the nxn has n>20, the grid cells will only be shown per 8 cells\n\n");
 		
 		printf("\nStarting Grid:\n");

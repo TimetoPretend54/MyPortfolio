@@ -1,7 +1,7 @@
 """
 BAXTER MAKES COFFEE
 
-Programmed by Adrian Beehner, Samantha Freitas, Amanda Ward
+Programmed by Adrian B, Samantha F, Amanda W
 Class: CS404
 
 	This program takes an assortment of modules designed
@@ -23,16 +23,16 @@ Class: CS404
 	
 Program Modules:
 
-	Samantha Freitas - Program Lead
+	Samantha F - Program Lead
 					   Keurig Cup Vision
 					   Keurig Cup Pickup
 					   
-	Adrian Beehner   - Image Head
+	Adrian B   - Image Head
 					   State Vision
 					   State Determination
 					   Camera Images
 	
-	Amanda Ward		 - Movement Head
+	Amanda W		 - Movement Head
 					   Movement Events
 					   Coordinate Control
 """

@@ -109,10 +109,10 @@ public class GameCompleteScreen implements Screen
 		font.getData().setScale(.70f);
 		lavbelFont = new Label.LabelStyle(font, Color.WHITE);
 		// Label for play again
-		Label Info1 = new Label("Items - Adrian Beehner", lavbelFont);
-		Label Info2 = new Label("Level Design - Adrian Beehner", lavbelFont);
-		Label Info3 = new Label("Programming - Adrian Beehner", lavbelFont);
-		Label Info4 = new Label("Character Design and Animation - Felicia Beehner, Adrian Beehner(Partial Work)", lavbelFont);
+		Label Info1 = new Label("Items - Adrian B", lavbelFont);
+		Label Info2 = new Label("Level Design - Adrian B", lavbelFont);
+		Label Info3 = new Label("Programming - Adrian B", lavbelFont);
+		Label Info4 = new Label("Character Design and Animation - Adrian B, Adrian B(Partial Work)", lavbelFont);
 		Label Info5 = new Label("Art, Music, Evironments from freesound.org & opengameart.org", lavbelFont);
 		
 		// Expand whole length of the row
